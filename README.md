@@ -7,7 +7,19 @@
 [![slideshare](https://img.shields.io/badge/Slideshare-hax0r--kor-yellowgreen.svg)](https://www.slideshare.net/hax0r-kor)
 
 
-# About me
+## About me
 
 Hey. I'm Youngjun 22 years old.
 I am a Passionate Back-end developer always in hunger of learning new things and sharing what i have learned.
+
+## Skills
+
+Wait i will be ready soon.
+
+## Work Experience
+
+Wait i will be ready soon.
+
+## Related Experience
+
+Wait i will be ready soon.
