@@ -26,25 +26,7 @@ I am a Passionate Back-end developer always in hunger of learning new things and
 
 ## Technical Skills
 
-- C
-- Python
-- Php
-- Javascript
-- Node.js
-- Docker
-- Jenkins
-- Ngninx
-- Apache web server
-- MySQL
-- MongoDB
-- GraphQL
-- AWS
-- Memcached
-- Redis
-- Scala
-- Gearman
-- reverse-engineering
-- Linux
+- computer science
 
 ## Work Experience
 
